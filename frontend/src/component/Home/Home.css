@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-image: url("../../images/welcome-1536x909.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: aquamarine;
+}
+Link {
+  text-decoration: none;
+  font-size: 2vmax;
+}
